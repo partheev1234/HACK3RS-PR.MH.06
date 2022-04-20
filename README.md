@@ -1,4 +1,12 @@
-# dogbreedfinder
+# HACK3RS
+
+TEAM ID - 06
+Problem statement MH.DL.03
+
+
+Language: Python3
+Package used: numpy,cv2,keras,Ipython.display,ResNet50.
+Instruction: Clone Notebook, Run according to the numbers given.
 
 
 We need few images to train the neural network which we can download from the following link and while you are tring to implement the code the file should be in the specified path and we also be needed with the files provided in the repo.
